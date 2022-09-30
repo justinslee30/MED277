@@ -1,0 +1,38 @@
+HTN (hypertensive disease)
+
+"what failed and why do you think it did?"
+
+The entity was identified in Spacy but it did not return any UMLS concept. This could be due to the
+abbreviation of the disease/syndrome. However, when searching HTN in the metathesaurus, Hypertensive
+disease was the first result. Perhaps, full disease name needs to be spelled out rather than abbreviated.
+
+DM2 (Myotonic Dystrophy type 2 (DM2))
+
+"what failed and why do you think it did?"
+
+The entity was identified in Spacy but had the wrong UMLS concept associated with it. The UMLS request
+returned square decimeter instead of Myotonic Dystrophy type 2 (DM2). This could be due to the abbrevation
+of the disease/syndrome and because its abbreviation was the same for that representing square decimeter.
+
+UTI (Urinary Tract Infection)
+
+"what failed and why do you think it did?"
+
+The entity was identified in Spacy but it did not return any UMLS concept. This could be due to the
+abbreviating of the disease/syndrome since Urinary Tract Infection is a concept within UMLS. However,
+the whole disease/syndrome was spelled out in each entry.
+
+HIT (Heparin-induced thrombocytopenia)
+
+"what failed and why do you think it did?"
+
+The entity was identified in Spacy but no UMLS concept was returned. This is due to the abbreviation of
+the disease/syndrome being a common word and the fact that the abbreviation was all uppercase meant that
+UMLS could not even find a concept for the common word created through abbreviation.
+
+HYPERNATREMIA
+
+The entity was not identified in Spacy and therefore did not have a UMLS concept returned for it. However,
+in the UMLS, it is identified as a Disease/Syndrome so if it was identified in Spacy, it would have
+been identified in UMLS. It may not have been identified due to it being HYPERNATREMIA (HIGH SODIUM) in
+the H&P file.

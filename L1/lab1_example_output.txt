@@ -1,0 +1,341 @@
+/Users/mikehogarth/PycharmProjects/pythonProject/venv/bin/python /Users/mikehogarth/PycharmProjects/pythonProject/lab1-regex-find-hpi.py
+file:find_hpi.csv
+line count: 1853
+hpi start line:3
+hpi end line:19
+hpi start line:174
+hpi end line:190
+hpi start line:344
+hpi end line:374
+hpi start line:577
+hpi end line:593
+hpi start line:747
+hpi end line:763
+hpi start line:926
+hpi end line:942
+hpi start line:1105
+hpi end line:1129
+hpi start line:1263
+hpi end line:1288
+hpi start line:1476
+hpi end line:1491
+hpi start line:1699
+hpi end line:1717
+number of HPI sections:10
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs. She took her epipen at home
+   without much relief in her symptoms. Denies associated SOB, difficulty
+   swallowing, wheezing. She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual. The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management.
+   .
+   In the ED, vitals stable, O2 sat 100% RA. She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms. She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs. She took her epipen at home
+   without much relief in her symptoms. Denies associated SOB, difficulty
+   swallowing, wheezing. She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual. The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management.
+   .
+   In the ED, vitals stable, O2 sat 100% RA. She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms. She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   63 yo M with h/o DM type 1, PVD, and HTN who presents with
+   hyperglycemia and altered mental status. The patient states that he was
+   in his USOH until Monday, when he awoke with abdominal pain and nausea.
+   He could not eat anything so he didn't take his insulin. He did not
+   vomit or experience fevers/chills, nor any dysuria, new cough, or URI
+   sxs. He did manage to go to his numerous medical appointments that day,
+   when he was seen by PCP, [**Name10 (NameIs) 276**], and dentist.
+   .
+   Per wife, the dentist foud a large mouth abscess for which he was
+   prescribed clindamycin 150mg qid x 7 days. Otherwise visits were
+   without incident. Sugars have been running very erratically, with FSG
+   on [**1-19**]- [**1-20**] ranging from 70's to 500+. Today, after returning from
+   work, she found him slumped over at his computer and confused. Checked
+   BS and was so high meter didn't read number. Called Dr. [**Last Name (STitle) 488**],
+   rechecked BS, was still higher than readable, so called EMS. Was
+   disoriented, calling son by name and stating he needed 750 units of
+   insulin.
+   .
+   In the ED, vitals were stable. Initial labs were notable for glucose
+   769, HCO3 9, AG 32, WBC 21.3, lactate 3.9, UA positive for ketones. CXR
+   without acute process, EKG with new [**Street Address(2) 489**] dep V5-6, 0.[**Street Address(2) 490**] dep II,
+   III, aVF. ABG 7.08/25/104/8. He was started on an insulin gtt at 8
+   units/hr, given 4 L IVFs, asa 325 po X 1, levaquin 500 mg IV X 1, and
+   flagyl 500 mg IV X 1.
+   .
+   ROS positive for headache and blurry vision recently. Also endorses
+   poor appetite and po intake due to nausea, abdominal pain, and vomiting
+   today. Denies unusual polyuria or polydipsia. Denies CP or SOB
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from Patient, Family / [**Hospital 56**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs. She took her epipen at home
+   without much relief in her symptoms. Denies associated SOB, difficulty
+   swallowing, wheezing. She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual. The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management.
+   .
+   In the ED, vitals stable, O2 sat 100% RA. She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms. She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs. She took her epipen at home
+   without much relief in her symptoms. Denies associated SOB, difficulty
+   swallowing, wheezing. She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual. The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management.
+   .
+   In the ED, vitals stable, O2 sat 100% RA. She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms. She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs. She took her epipen at home
+   without much relief in her symptoms. Denies associated SOB, difficulty
+   swallowing, wheezing. She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual. The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management.
+   .
+   In the ED, vitals stable, O2 sat 100% RA. She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms. She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   Ms. [**Known lastname 686**] is an 83-year-old Russian-speaking woman with PMH of
+   COPD, HTN, CVA, and T2DM who presents to the ED from [**Hospital 12**] Rehab with
+   fever and shortness of breath. She was noted to have N/V and lower
+   abdominal pain for one day prior to admission, when she was found to be
+   drowsy and weak. She had a CXR at HR which was read as no acute changes
+   from prior. During transport she received SL nitro x 1 and Lasix 20 mg
+   IV x 1.
+   In the ED initial vitals were T101.6, BP 175/104, HR 116, 93% on NRB
+   eventually improving to 98%. She did not tolerate BiPAP. She vomited a
+   small amount of coffee ground emesis in the ED. Nitro gtt was started
+   for BP of 194/131. A CTA was done which was negative for PE. An EKG
+   showed sinus tach with LAD and no acute ST changes or Q waves. She was
+   given tylenol, combivent nebs x 3, levaquin 750mg IV x 1, cefepime 1g
+   IV x 1, flagyl 500mg IV x1, and protonix 40mg IV x1. GI was made aware
+   and pt was admitted ot [**Hospital Unit Name 44**] for further care.
+   Upon arrival to the [**Hospital Unit Name 44**], further history was obtained with translator.
+   She explained that she has had SOB x 1 week along with dysuria and
+   lower abdominal pain of unclear length. She denied CP. She admits to a
+   dry cough x 1 week as well. Also explains that she has had N/V. She
+   also admits to constipation. She currently lives at [**Hospital 12**] Rehab and
+   has done so for the past year. Ambulates at baseline without
+   assistance. Niece and nephew are her family contact.
+   [**Name (NI) 53**] admitted from: [**Hospital1 54**] ER
+   History obtained from Patient, [**Hospital 228**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   Ms. [**Known lastname 686**] is an 83-year-old Russian-speaking woman with PMH of
+   HTN, CVA, and T2DM who presents to the ED from [**Hospital 12**] Rehab with fever
+   and shortness of breath. She was noted to have N/V and lower abdominal
+   pain for one day prior to admission, when she was found to be drowsy
+   and weak. She had a CXR at HR which was read as no acute changes from
+   prior. During transport she received SL nitro x 1 and Lasix 20 mg IV x
+   1.
+   In the ED initial vitals were T101.6, BP 175/104, HR 116, 93% on NRB
+   eventually improving to 98%. She did not tolerate BiPAP. She vomited a
+   small amount of coffee ground emesis in the ED without NG lavage given
+   acute respiratory distress. Guaiac negative in the ED. Nitro gtt was
+   started for BP of 194/131. A CTA was done which was negative for PE. An
+   EKG showed sinus tach with LAD and no acute ST changes or Q waves. She
+   was given tylenol, combivent nebs x 3, levaquin 750mg IV x 1, cefepime
+   1g IV x 1, flagyl 500mg IV x1, and protonix 40mg IV x1. GI was made
+   aware and pt was admitted ot [**Hospital Unit Name 44**] for further care.
+   Upon arrival to the [**Hospital Unit Name 44**], further history was obtained with translator.
+   She explained that she has had SOB x 1 week along with dysuria and
+   lower abdominal pain of unclear length. She denied CP. She admits to a
+   dry cough x 1 week as well. Also explains that she has had N/V. She
+   also admits to constipation. She currently lives at [**Hospital 12**] Rehab and
+   has done so for the past year. Ambulates at baseline without
+   assistance. [**Hospital 687**] and nephew are her family contact.
+   [**Name (NI) 53**] admitted from: [**Hospital1 54**] ER
+   History obtained from Patient, [**Hospital 228**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   This is a [**Age over 90 212**]yo NH resident with PMH of CRI, known CAD, dementia who
+   presents from NH with lethargy, fever, and hypoxia.  He was diagnosed
+   with an aspiration pna 2 days ago and started on levafloxacin and
+   flagyl.  This morning unarousable, fever, desat to 88%, fingerstick
+   registered ""high"" at 6am, received 10 units insulin, by 8:45, still
+   reg. ""high"", rec'd 6 units.
+   .
+   In the ED Tmax 102.6 rectal, HR 101, RR24, BP100/65, 92%NRB.  He was
+   given etomidate 20mg IV, succinylcholine 120mg IV, ativan 4mg IV,
+   versed 6mgIV, and intubated, had very thick secretions.  RIJ sepsis
+   line placed.  He was also treated with 4L IVF, Zosyn 4.25mg IV x1,
+   decadron 10mg IV, Vancomycin 1g IV, 10 units regular insulin IV.  He
+   was started on levophed for BP as low as 81/45.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from Family / [**Hospital 56**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+   HPI:
+   This is a 75 year-old Spanish-speaking male with metastatic clear cell
+   renal cell carcinoma and HTN who presented with complaint of black
+   stool.  He had a CT scan [**12-2**] showing tumor abutting and possibly
+   eroding into duodenum and right colon.  He was noted to have guaiac
+   positive stool last week with a drop in Hct.  He was transfused one
+   unit pRBCs on [**12-11**] in [**Hospital 227**] clinic.  He saw GI on [**12-15**] with a plan for
+   outpatient endoscopies.  Today he presented in clinic unscheduled with
+   c/o black stools x 2 yesterday.
+   .
+   In ED his Hct was 23.7.  Rectal exam showed melena.  He was
+   crossmatched for 6 units and ordered for 2 units.  GI and Oncology
+   consultants were called.
+   .
+   Or arrival to the ICU, he denies fevers, abdominal pain, BRBPR, nausea,
+   or hematemesis.  No chest pain, palpitations, SOB, dizziness, or LH.
+   No NSAID or ASA use.
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from Patient, [**Hospital 228**] Medical records
+   Allergies:
+
+
+
+------------------------------------------
+
+
+number of sentences:10
+   HPI:
+   24 yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X 6 hrs
+
+ She took her epipen at home
+   without much relief in her symptoms
+
+ Denies associated SOB, difficulty
+   swallowing, wheezing
+
+ She is able to control her secretions without
+   difficulty but has noticed that her voice is more sluggish and hoarser
+   than usual
+
+ The pt feels that her symptoms as not as severe as they
+   were on her prior admission when she required intubation for airway
+   management
+
+
+   
+
+
+   In the ED, vitals stable, O2 sat 100% RA
+
+ She was given solumedrol 125
+   mg IV, benadryl 50 mg IV, and famotidine 20 mg IV without much
+   subjective improvement in her symptoms
+
+ She was admitted to the [**Hospital Unit Name 44**]
+   overnight for airway monitoring
+
+
+   Patient admitted from: [**Hospital1 54**] ER
+   History obtained from [**Hospital 85**] Medical records
+   Allergies:
+
+
+   HPI:
+   [num][num] yo F with h/o idiopathic chronic urticaria and angioedema requiring
+   intubation during previous admission, asthma, and seasonal allergies
+   who presents with tongue swelling X [num] hrs
+
+Process finished with exit code 0

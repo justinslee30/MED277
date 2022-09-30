@@ -1,0 +1,123 @@
+C2830004|Somnolence|MTH
+   Mental or Behavioral Dysfunction
+C0085631|Agitation|MTH
+   Sign or Symptom
+C1300562|square decimeter|MTH
+   Quantitative Concept
+C0020649|Hypotension|MTH
+   Finding
+C0428977|Bradycardia|MTH
+   Finding
+C0282386|levofloxacin|MTH
+   Organic Chemical
+   Antibiotic
+C0004259|atropine|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0034063|Pulmonary Edema|MTH
+   Pathologic Function
+C0013030|dopamine|MTH
+   Organic Chemical
+   Biologically Active Substance
+   Pharmacologic Substance
+C0040034|Thrombocytopenia|MTH
+   Disease or Syndrome - found
+C0036751|serotonin|MTH
+   Organic Chemical
+   Biologically Active Substance
+C0048470|argatroban|RXNORM
+   Amino Acid, Peptide, or Protein
+   Pharmacologic Substance
+C0030054|oxygen|MTH
+   Biologically Active Substance
+   Pharmacologic Substance
+   Element, Ion, or Isotope
+C4541402|US Military Commissioned Officer O2|MTH
+   Classification
+C0010200|Coughing|MTH
+   Sign or Symptom
+C0019134|heparin|MTH
+   Organic Chemical
+   Biologically Active Substance
+   Pharmacologic Substance
+C0002680|ampicillin|MTH
+   Organic Chemical
+   Antibiotic
+C0007561|ceftriaxone|MTH
+   Organic Chemical
+   Antibiotic
+C0025859|metoprolol|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0002144|allopurinol|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0017628|glyburide|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C1275563|Once a day, at bedtime|MTH
+   Temporal Concept
+C0700580|ipratropium bromide|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0001927|albuterol|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0009806|Constipation|MTH
+   Sign or Symptom
+C0243237|docusate sodium|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0037473|sodium|MTH
+   Biologically Active Substance
+   Element, Ion, or Isotope
+C0018305|guaifenesin|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0042313|vancomycin|MTH
+   Amino Acid, Peptide, or Protein
+   Antibiotic
+C0043031|warfarin|MTH
+   Organic Chemical
+   Pharmacologic Substance
+   Hazardous or Poisonous Substance
+C0032285|Pneumonia|MTH
+   Disease or Syndrome - found
+C0497327|Dementia|MTH
+   Mental or Behavioral Dysfunction
+C0740418|Chronic back pain|SNOMEDCT_US
+   Sign or Symptom
+C0001975|Alcohols|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0028429|Nose|MTH
+   Body Part, Organ, or Organ Component
+C0085610|Sinus bradycardia|MTH
+   Pathologic Function
+C0020440|Hypercapnia|MSH
+   Finding
+C0010583|cyclophosphamide|MTH
+   Organic Chemical
+   Pharmacologic Substance
+C0023518|Leukocytosis|MTH
+   Disease or Syndrome - found
+C1265876|Abnormally opaque structure (morphologic abnormality)|MTH
+   Pathologic Function
+C0015967|Fever|MTH
+   Sign or Symptom
+C0002871|Anemia|MTH
+   Disease or Syndrome - found
+C0009450|Communicable Diseases|MTH
+   Disease or Syndrome - found
+C2937287|Hemolysis (biological function)|MTH
+   Cell Function
+C2945560|Hemolysis (lab result)|MTH
+   Finding
+C0038999|Swelling|MTH
+   Finding
+C0022660|Kidney Failure, Acute|MTH
+   Disease or Syndrome - found
+C0243026|Sepsis|MTH
+   Disease or Syndrome - found
+C2741638|Stress ulcer|MTH
+   Disease or Syndrome - found

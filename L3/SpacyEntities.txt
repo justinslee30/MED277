@@ -1,0 +1,115 @@
+Spacy Entity List
+somnolence
+agitation
+HTN
+DM2
+UTIs
+hypotension
+bradycardia
+RA
+UTI
+levofloxacin
+NamePattern1
+atropine
+pulmonary edema
+CEZ
+dopamine
+stuartii
+vanc/cefepime
+VAP
+thrombocytopenia
+HIT
+serotonin
+argatroban
+O2
+coumadin
+O2 sat 100%
+cough
+Heparin
+Ampicillin
+Ceftriaxone
+Trazadone
+qhs
+   
+Vicodin
+Metoprolol
+Allopurinol
+Glyburide
+Lovenox
+qhs
+   Tylenol
+qhs
+Ipratropium Bromide
+NEB IH Q6H
+PRN sob/wheeze
+   Lansoprazole
+Albuterol
+Neb Soln 1 NEB IH Q6H
+PRN sob/wheeze
+   Aspirin
+Constipation
+Docusate Sodium
+Sodium
+Guaifenesin
+Q6H
+Vancomycin
+Warfarin
+pneumonia
+Dementia
+Chronic back pain
+chronic gait disorder
+multiple falls
+   HTN
+Alcohol
+Daytime somnolence
+   
+97/53(64
+acute distress
+Nose
+lower extremity edema
+P12/24/[**2186
+Phos / T Bili:191/0.2,
+   
+Name8
+CEFEPIME--------------
+4 R
+   GENTAMICIN------------       S
+   MEROPENEM-------------<=0.25 S
+   NITROFURANTOIN--------   128 R     <=16 S
+   PIPERACILLIN/TAZO-----     8 S
+   TETRACYCLINE----------              
+8 R
+   VANCOMYCIN------------
+Sinus bradycardia
+retrocardiac opacity
+urosepsis
+HD
+hypercarbia
+CTX
+leukocytosis
+opacity
+steroids
+Entercoccus and Providencia
+Fever
+Anemia
+bone marrow
+   suppression
+infection
+hemolysis
+thrombus of RIJ
+swelling
+Fondaparinox
+Acute renal failure
+Cr
+ATN
+volume overload
+sepsis
+FEN
+Nectar thicks
+   
+PPX
+Pneumoboots
+1) 9944
+DISPO
+DVT
+Stress ulcer
